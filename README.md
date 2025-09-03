@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Almoallem-code/Almoallem-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ghaith Almoallem,**Web Developer & Learner**.  
+I’m passionate about building **modern, creative, and user-friendly digital experiences**.  
+Currently, I’m focusing on **Web Development** 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+- **Frontend**: HTML, CSS, JavaScript, React, Bootstrap, tailwind
+- **Design**: Figma  
+- **Other**: Git & GitHub
+
+---
+
+
+---
+
+## 🎯 Goals
+- Build digital products and share them with the world 🌍  
+- Keep learning & growing every single day 📚  
+
+---
+
+## 📫 Get in Touch
+- Email: galmo2010@gmail.com  
+
+---
+
+⭐️ *“Every project I build is a step closer to my global vision.”*
